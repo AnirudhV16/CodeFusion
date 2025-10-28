@@ -1,5 +1,5 @@
 # 📦 **CodeFusion — Fusing Code Together**
-### An application that clones GitHub repositories locally and consolidates all files into a single text file — perfect for providing complete codebase context to AI models like **ChatGPT**, **Claude**, or **GitHub Copilot**. 
+### Application that clones GitHub repositories locally and consolidates all files into a single text file — perfect for providing complete codebase context to AI models like **ChatGPT**, **Claude**, or **GitHub Copilot**. 
 
 ### Easily manage and reuse all your cloned repositories from a **centralized history** for a smoother, more efficient development workflow.
 ---
@@ -128,7 +128,7 @@ Navigate to **http://localhost:5173** to use the application.
 
 1. **Enter GitHub URL**: Paste any public repository URL
    ```
-   https://github.com/AnirudhV16/demo1.git
+   https://github.com/AnirudhV16/CodeFusion.git
    ```
 
 2. **Clone Repository**: Click "Clone Repository" and wait for completion
