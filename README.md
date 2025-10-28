@@ -2,7 +2,7 @@
 
 > An application that clones GitHub repositories locally and consolidates all files into a single text file — perfect for providing complete codebase context to AI models like **ChatGPT**, **Claude**, or **GitHub Copilot**.  
 
-Easily manage and reuse all your cloned repositories from a **centralized history** for a smoother, more efficient development workflow.
+### Easily manage and reuse all your cloned repositories from a **centralized history** for a smoother, more efficient development workflow.
 ---
 
 📹 Demo
